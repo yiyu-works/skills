@@ -1,0 +1,4 @@
+interface:
+  display_name: "前端状态与交互检查"
+  short_description: "Practical workflows for frontend-check tasks"
+  default_prompt: "Use $frontend-check. 检查这个页面的表单、列表和弹窗，只报告可复现问题，暂时不要改代码。"

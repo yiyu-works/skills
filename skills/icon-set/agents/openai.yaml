@@ -1,0 +1,4 @@
+interface:
+  display_name: "统一风格图标集"
+  short_description: "Practical workflows for icon-set tasks"
+  default_prompt: "Use $icon-set. 为任务管理工具制作六个统一风格图标，优先 SVG，检查24px下是否可辨认。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "可编辑网页演示"
+  short_description: "Practical workflows for web-slides tasks"
+  default_prompt: "Use $web-slides. 把这份产品介绍做成离线 HTML 演示，支持键盘翻页、备注和打印。"

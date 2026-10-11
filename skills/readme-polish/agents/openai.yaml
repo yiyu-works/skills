@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目 README 整理"
+  short_description: "Practical workflows for readme-polish tasks"
+  default_prompt: "Use $readme-polish. 给这个仓库整理 README，核对安装步骤，保留真实功能，不增加未经证实的宣传。"

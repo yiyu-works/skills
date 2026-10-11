@@ -1,0 +1,4 @@
+interface:
+  display_name: "清晰产品文案"
+  short_description: "Practical workflows for clear-writing tasks"
+  default_prompt: "Use $clear-writing. 把这段产品介绍改得自然清楚，保留价格、限制和作者语气。"

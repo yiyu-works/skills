@@ -1,0 +1,4 @@
+interface:
+  display_name: "单页 HTML 报告"
+  short_description: "Practical workflows for html-report tasks"
+  default_prompt: "Use $html-report. 把这些调研材料做成可离线阅读的 HTML 报告，区分事实、推断与建议。"

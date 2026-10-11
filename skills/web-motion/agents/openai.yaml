@@ -1,0 +1,4 @@
+interface:
+  display_name: "网页交互动效"
+  short_description: "Practical workflows for web-motion tasks"
+  default_prompt: "Use $web-motion. 为产品介绍页做滚动出场和阅读进度，保留减少动态效果与无 JS 的可读性。"

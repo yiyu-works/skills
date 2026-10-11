@@ -1,0 +1,4 @@
+interface:
+  display_name: "真实内容封面"
+  short_description: "Practical workflows for cover-maker tasks"
+  default_prompt: "Use $cover-maker. 根据这段产品演示和字幕，制作16:9与3:4封面，保留真实界面和可编辑标题。"

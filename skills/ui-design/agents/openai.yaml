@@ -1,0 +1,4 @@
+interface:
+  display_name: "界面设计与探索"
+  short_description: "Practical workflows for ui-design tasks"
+  default_prompt: "Use $ui-design. 为我的产品做一个可运行首页，遵循现有品牌，检查桌面和手机效果。"
